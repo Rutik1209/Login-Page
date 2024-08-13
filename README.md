@@ -1,4 +1,4 @@
-Login Page Project
+<b>Login Page Project<b>
 
 Overview : The Login Page Project is a simple yet elegant login interface designed to provide users with a smooth and secure authentication experience. The project showcases a responsive design using modern web technologies, making it suitable for integration into various applications.
 
